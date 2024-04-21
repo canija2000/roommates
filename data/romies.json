@@ -1,0 +1,47 @@
+{
+  "rommies": [
+    {
+      "id": "6157f582",
+      "nombre": "تینا مرادی",
+      "email": "tyn.mrdy@example.com",
+      "debe": 2500,
+      "recibe": 2500,
+      "total": 0
+    },
+    {
+      "id": "7615df82",
+      "nombre": "Clara Ditlefsen",
+      "email": "clara.ditlefsen@example.com",
+      "debe": 2500,
+      "recibe": 2500
+    },
+    {
+      "id": "644e8374",
+      "nombre": "Darryl Payne",
+      "email": "darryl.payne@example.com",
+      "debe": 5000,
+      "recibe": 0
+    },
+    {
+      "id": "de04e2a3",
+      "nombre": "Eino Lampinen",
+      "email": "eino.lampinen@example.com",
+      "debe": 5000,
+      "recibe": 0
+    },
+    {
+      "id": "f37d7296",
+      "nombre": "Deniz Topçuoğlu",
+      "email": "deniz.topcuoglu@example.com",
+      "debe": 5000,
+      "recibe": 0
+    },
+    {
+      "id": "fc38501c",
+      "nombre": "Carter Roy",
+      "email": "carter.roy@example.com",
+      "debe": 5000,
+      "recibe": 0
+    }
+  ]
+}

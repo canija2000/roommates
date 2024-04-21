@@ -1,0 +1,18 @@
+{
+  "gastos": [
+    {
+      "nombre": "Clara Ditlefsen",
+      "monto": "15000",
+      "descripcion": "asd",
+      "fecha": "2024-04-21T00:25:01.045Z",
+      "id": "731d5da5"
+    },
+    {
+      "nombre": "تینا مرادی",
+      "monto": "15000",
+      "descripcion": "",
+      "fecha": "2024-04-21T00:31:46.319Z",
+      "id": "9ac0d427"
+    }
+  ]
+}
